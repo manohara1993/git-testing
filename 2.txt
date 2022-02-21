@@ -1,1 +1,4 @@
 Hello this is ny git 2nd file
+
+
+this is 2nd file
